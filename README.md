@@ -1,4 +1,9 @@
 # odin-recipes
+
+## Hi everyone, This project is updated and I Strongly recommend you to check the other branchs, because the master branch is the first interaction with html and css.
+
+---
+
 Recipes!
 
 This is a simple website about guess what?
